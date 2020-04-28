@@ -1,12 +1,10 @@
 # VoiceAPITest
 
-Clone https://github.com/ClickSend/clicksend-java.git and VoiceapiCall project  to your system 
+Clone ClickSend SDK https://github.com/ClickSend/clicksend-java.git and build the project using gradle or maven .
 
-Build the project using gradle or maven .
+import VoiceapiCall project to your IDE and add all the library  generated from the build of ClickSend SDK
 
-import VoiceapiCall project to your IDE and add all the library  generated from the build of https://github.com/ClickSend/clicksend-java.git.
-
-NOte :
+Note :
 
 Before running create free trial account in https://www.clicksend.com/au/ . 
 
